@@ -18,4 +18,34 @@ Welcome to the **Car Rental Website**, a project built by **Muhammad Awais** dur
 
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Sanity.io CMS  
-- **Deployment:** Vercel 
+- **Deployment:** Vercel  
+
+---
+
+## 🛠️ Upcoming Features  
+
+- 🚘 **Car Reviews and Ratings**  
+- 📊 **Admin Dashboard**  
+- 🔔 **Real-time Notifications**  
+
+---
+
+## 📄 License  
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the project under the terms of the license.  
+
+---
+
+## 📧 Contact  
+
+For any questions or feedback, feel free to reach out:  
+
+- **Name:** Muhammad Awais  
+- **Email:** muhammadawaid0306@gmail.com  
+- **GitHub:** [@mhdawaisrajput](https://github.com/mhdawaisrajput)  
+
+---
+
+## 🙌 Acknowledgments  
+
+Thank you to **Next.js** and **Tailwind CSS** for the powerful tools used in this project.  
